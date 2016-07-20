@@ -17,7 +17,6 @@
     - Each table header may only be mapped to one distinct issue column
 
 ### Notes
-- The version number in the manifest toggles 'freemium' vs 'premium'.  Anything under '1.0' is considered 'freemium'
 - The extension will only activate if the page you are on is within your Confluence instance - Set via options
 - The extension will also retrieve any attachments from the 'Description' column and add those by default.  This is in addition to the optional 'Attachments' column.
 - The following columns are currently available:
