@@ -1,5 +1,6 @@
 ### Configure Conjir
 **Click or Right-click on the icon and select 'Options'**
+
 **Enter your Confluence/Jira Information**
 - username - Your Confluence/Jira username
 - Password - Your Confluence/Jira password
