@@ -1,13 +1,13 @@
 ### Configure Conjir
-**Click or Right-click on the icon and select 'Options'**
+**1. Click or Right-click on the icon and select 'Options'**
 
-**Enter your Confluence/Jira Information**
+**2. Enter your Confluence/Jira Information**
 - username - Your Confluence/Jira username
 - Password - Your Confluence/Jira password
 - Confluence Url - Full Application Base Url - `https://confluence.<company>.com`
 - Jira Url - Full Application Base Url - `https://jira.<company>.com`
 
-**Be sure and test your new connections**
+**3. Be sure and test your new connections**
 
 ### Confluence to Jira Workflow
 1. First, create your requirements table with formatted data & use the prebuild "Jira Issue Creator" to create your Jira Issues.  With your Jira Issues created your are ready to use Conjir.
