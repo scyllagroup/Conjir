@@ -5,6 +5,7 @@
 - Password - Your Confluence/Jira password
 - Confluence Url - Full Application Base Url - `https://confluence.<company>.com`
 - Jira Url - Full Application Base Url - `https://jira.<company>.com`
+
 **Be sure and test your new connections**
 
 ### Confluence to Jira Workflow
