@@ -12,7 +12,7 @@
 ### Confluence to Jira Workflow
 1. First, create your requirements table with formatted data & use the prebuilt "Jira Issue Creator" to create your Jira Issues.  With your Jira Issues created your are ready to use Conjir.
 2. Launch the Conjir extension by clicking the icon in the browser bar and hitting **Launch**.
-3. Int the "Format Jira Tasks" window, choose which columns within your Confluence table you want to carry over to your issues within Jira.
+3. In the "Format Jira Tasks" window, choose which columns within your Confluence table you want to carry over to your issues within Jira.
     - Extension will scan and select the first table it finds on the page with a 'Jira-Issue-Template'.
     - Subsequent tables are currently ignored.
     - Map your table column header names to the Jira issue columns available.
